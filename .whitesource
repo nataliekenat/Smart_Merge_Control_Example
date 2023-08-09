@@ -27,6 +27,7 @@
       {
         "matchConfidence": ["very high"],
         "matchUpdateTypes": ["patch", "minor"],
+        "commitMessagePrefix": "min: ![confidence](https://badges.renovateapi.com/packages/{{datasource}}/{{replace '/' '%2f' depName}}/{{{toVersion}}}/confidence-slim/{{{fromVersion}}}) ",
         "automerge": true
       }
     ]
