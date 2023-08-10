@@ -19,7 +19,7 @@ click==8.1.6
 colorama==0.4.6
 cryptography==40.0.2
 databricks-sql-connector==2.6.1
-dataclasses-json==0.5.7
+dataclasses-json==0.5.14
 dnspython==2.3.0
 et-xmlfile==1.1.0
 filelock==3.12.0
