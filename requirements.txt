@@ -7,7 +7,7 @@ attrs==23.1.0
 autopep8==1.7.0
 azure-ai-contentsafety==1.0.0b1
 azure-core==1.29.1
-azure-cosmos==4.3.1
+azure-cosmos==4.5.0
 azure-identity==1.13.0
 azure-servicebus==7.10.0
 blinker==1.6.2
