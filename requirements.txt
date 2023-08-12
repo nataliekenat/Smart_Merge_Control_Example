@@ -27,7 +27,7 @@ Flask==2.3.2
 Flask-Cors==3.0.10
 Flask-Testing==0.8.1
 frozenlist==1.4.0
-fsspec==2023.5.0
+fsspec==2023.6.0
 future==0.18.3
 google-api-core==2.11.1
 google-auth==2.18.0
