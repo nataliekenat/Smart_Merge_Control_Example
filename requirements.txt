@@ -31,7 +31,7 @@ fsspec==2023.6.0
 future==0.18.3
 google-api-core==2.11.1
 google-auth==2.22.0
-googleapis-common-protos==1.59.0
+googleapis-common-protos==1.60.0
 greenlet==2.0.2
 huggingface-hub==0.14.1
 idna==3.4
