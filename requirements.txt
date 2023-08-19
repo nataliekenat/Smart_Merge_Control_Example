@@ -65,7 +65,7 @@ packaging==23.1
 pandas==2.0.3
 pluggy==1.2.0
 portalocker==2.7.0
-protobuf==4.24.0
+protobuf==4.24.1
 psutil==5.9.5
 psycopg2==2.9.7
 psycopg2-binary==2.9.7
