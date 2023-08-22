@@ -23,7 +23,7 @@ dataclasses-json==0.5.14
 dnspython==2.4.2
 et-xmlfile==1.1.0
 filelock==3.12.2
-Flask==2.3.2
+Flask==2.3.3
 Flask-Cors==4.0.0
 Flask-Testing==0.8.1
 frozenlist==1.4.0
