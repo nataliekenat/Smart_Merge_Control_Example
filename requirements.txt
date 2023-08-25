@@ -18,7 +18,7 @@ charset-normalizer==3.2.0
 click==8.1.7
 colorama==0.4.6
 cryptography==41.0.3
-databricks-sql-connector==2.9.2
+databricks-sql-connector==2.9.3
 dataclasses-json==0.5.14
 dnspython==2.4.2
 et-xmlfile==1.1.0
