@@ -52,7 +52,7 @@ msal==1.23.0
 msal-extensions==1.0.0
 multidict==6.0.4
 mypy-extensions==1.0.0
-numexpr==2.8.5
+numexpr==2.8.6
 numpy==1.25.2
 oauthlib==3.2.2
 openai==0.28.0
