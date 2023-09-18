@@ -93,7 +93,7 @@ thrift==0.16.0
 toml==0.10.2
 tqdm==4.66.1
 typing-inspect==0.9.0
-typing_extensions==4.7.1
+typing_extensions==4.8.0
 urllib3==2.0.4
 visionscaper-pybase==0.3.5
 waitress==2.1.2
