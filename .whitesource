@@ -23,17 +23,14 @@
       "config:base",
       "github>whitesource/merge-confidence:beta"
       ],
-      "packageRules": [
+      "package rules": [
       {
-        "matchConfidence": ["very high"],
-        "matchUpdateTypes": ["patch", "minor"]},
-        {
-		     	"additionalBranchPrefix": "min_",
-		     	"commitMessagePrefix": "min: ![confidence](https://badges.renovateapi.com/packages/{{datasource}}/{{replace '/' '%2f' depName}}/{{{toVersion}}}/confidence-slim/{{{fromVersion}}}) ",
-		      	"addLabels": [
-			    	"chore-renovate-minor"
-			],
-        "automerge": true
+       
+        "groupName": "minor and patch",
+      	 "matchUpdateTypes": ["minor", "patch"],
+      	 "matchConfidence": ["very high", "high"],
+      	 "automerge": true
+
       }
     ]
   }
