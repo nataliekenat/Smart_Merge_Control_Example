@@ -21,7 +21,7 @@
     "enableRenovate": true,
     "extends": [
       "config:base",
-      ":dependencyDashboard",
+      "dependencyDashboard": true,
       "github>whitesource/merge-confidence:beta"
       ],
       "package rules": [
